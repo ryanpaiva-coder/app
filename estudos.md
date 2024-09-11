@@ -15,23 +15,42 @@ Como um lego, você irá utilizar peças para criar algoritmos, ou seja, para re
 - Controle de fluxo (if/else)
 - Estrutura de repetição (for, while)
 
-## Fases da resolução de um problema
+# Fases da resolução de um problema
 
-Coletar os dados
-Processar od dados (manipular, alterar ...)
-Apresentar os dados
+- Coletar os dados
+- Processar os dados (manipular, alterar ...)
+- Apresentar os dados
 
 ## Escopo e variáveis:
 
-Variáveis globais e locais
-Constantes
+- [x] Variáveis globais e locais
+- [x] Constantes
 
 ## Tipos de dados:
 
-Strings (textos): "" '' ``
-Number: 2 1.4
-Function
+- [x] Strings (textos): "" '' ``
+- [x] Number: 2 1.4
+- [x] Boolean: true, false
 
-## Operadores
+# Operadores
 
-Operadores de atribuição de valor
+- [x] Operadores de atribuição de valor (=)
+- [x] Operador de concatenação (+)
+
+## Estrutura de dados:
+
+### Arrays:
+
+[x] Uma lista que contém qualquer tipo de dado.
+
+### Objetos:
+
+- [x] Atributos e métodos
+- [x] Criação e manipulação de objetos
+- [x] Acesso a propriedades de objetos (.)
+
+### Functions
+
+- [x] Criar, passar argumento
+- [x] Executar
+- [x] Arrow function / named function
